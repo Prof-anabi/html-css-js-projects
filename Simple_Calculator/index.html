@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculaor</title>
+
+    <link type="text/css" rel="stylesheet" href="styles.css">
+    <script defer type="text/javascript" src="main.js"></script>
+</head>
+<body>
+    <div id="main">
+        <form action="" name="form">
+            <input type="text" name="screen" id="screen" placeholder="0"> 
+            <br>
+            <input type="button" value="1" onclick="form.screen.value += 1">
+            <input type="button" value="2" onclick="form.screen.value += 2">
+            <input type="button" value="3" onclick="form.screen.value += 3">
+            <input type="button" value="+" onclick="add()">
+            <br>
+            <input type="button" value="4" onclick="form.screen.value += 4">
+            <input type="button" value="5" onclick="form.screen.value += 5">
+            <input type="button" value="6" onclick="form.screen.value += 6">
+            <input type="button" value="-" onclick="sub()">
+            <br>
+            <input type="button" value="7" onclick="form.screen.value += 7">
+            <input type="button" value="8" onclick="form.screen.value += 8">
+            <input type="button" value="9" onclick="form.screen.value += 9">
+            <input type="button" value="/" onclick="div()">
+            <br>
+            <input type="button" value="c" onclick="form.screen.value = ''">
+            <input type="button" value="0" onclick="form.screen.value += 0">
+            <input type="button" value="=" onclick="form.screen.value = eval(form.screen.value)">
+            <input type="button" value="x" onclick="mul()">
+        </form>
+    </div>
+</body>
+</html>
