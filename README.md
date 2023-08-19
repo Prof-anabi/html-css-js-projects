@@ -35,7 +35,7 @@ The purpose of these projects is to help me get a solid and firm grasp of the ba
 - JavaScript
 
 ## Getting Started
-Provide instructions on how to set up the project locally.
+
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, etc.).
