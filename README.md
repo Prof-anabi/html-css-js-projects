@@ -1,6 +1,6 @@
 # HTML CSS JAVASCRIPT PROJECTS
 
-Thiis repository contains web apps I built using HTML, CSS and JAVACRIPT. 
+This repository contains web apps I built using HTML, CSS and JAVACRIPT. 
 
 ## Table of Contents
 - [Introduction](#introduction)
