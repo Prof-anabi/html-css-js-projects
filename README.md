@@ -28,6 +28,9 @@ The purpose of these projects is to help me get a solid and firm grasp of the ba
 - A Real-time Character Counter
 - A Random Color Generator
 - Testimonial slider
+- Heart Trail Animation
+- Video Trailer Popup
+- Passing cars counter
 
 ## Technologies Used
 - HTML
